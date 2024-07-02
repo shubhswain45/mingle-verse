@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # mingle-verse
 # minge-verse
 # mingle-verse
+# mingle-verse
