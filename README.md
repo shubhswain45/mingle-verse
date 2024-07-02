@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # minge-verse
 # mingle-verse
 # mingle-verse
+# mingle-verse
