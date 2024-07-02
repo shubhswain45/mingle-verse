@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # mingle-verse
 # mingle-verse
 # mingle-verse
+# mingle-verse
